@@ -1,70 +1,59 @@
-<img src="banner.png" alt="Profile Banner" width="100%">
 # 👋 Hi, I'm Nick
 
 💻 Python developer in training  
-📚 Learning advanced OOP, data structures, and clean coding principles  
-🚀 Building projects to improve skills and portfolio  
+📚 Currently learning Object-Oriented Programming and data structures  
+🚀 Building projects and improving my programming skills  
 
 ---
 
 ## 🧠 Skills
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<br><br>
+- Python
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+- Basic Data Analysis
+- Problem Solving
 
 ---
 
 ## 📂 Projects
 
-- **[Sales Analysis Project](https://github.com/nicktm8/sales-analysis-project)** – Python project for sales data analysis  
-- **OOP Online Store System** – Demonstrates encapsulation, inheritance, polymorphism, and abstract classes  
+🔹 Sales Analysis Project  
+https://github.com/nicktm8/sales-analysis-project  
+
+🔹 OOP Online Store System  
+Python project demonstrating encapsulation, inheritance, polymorphism and abstract classes.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Python concepts  
-- Data structures & algorithms  
-- Software design patterns  
+- Advanced Python
+- Data Structures
+- Clean Code principles
+- Software design
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=default)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=default)
+
+---
+
+## 💻 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktm8&layout=compact)
-
----
-
-## 🐍 Python Contribution Graph
-
-![Snake animation](https://github.com/nicktm8/nicktm8/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=nicktm8&theme=default)
-
----
-
-## 🎯 Profile Banner
-
-<img src="https://user-images.githubusercontent.com/your-banner-link.png" alt="Profile Banner" />
 
 ---
 
 ## 🔗 Connect with me
 
-GitHub: [nicktm8](https://github.com/nicktm8)  
- 
+GitHub: https://github.com/nicktm8
 
-⭐ Always learning and improving
+---
+
+⭐ Always learning and improving.
 
 <!--
 **nicktm8/nicktm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
