@@ -33,7 +33,7 @@ I am currently learning **Python, Object-Oriented Programming and Data Analysis*
 
 # 📊 GitHub Stats
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight)
 
 ---
 
