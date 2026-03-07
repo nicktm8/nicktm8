@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nicktm8&color=blue)
+
 # 👋 Hi, I'm Nick Tem
 
 💻 Python Developer | Data Analysis  
@@ -7,19 +9,13 @@ I enjoy building projects with **Python, OOP and data analysis** while continuou
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
 
 ---
 
@@ -44,6 +40,12 @@ https://github.com/nicktm8/sales-analysis-project
 # 📊 GitHub Stats
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nicktm8&theme=tokyonight)
 
 ---
 
