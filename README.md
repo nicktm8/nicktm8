@@ -33,7 +33,7 @@ I am currently learning **Python, Object-Oriented Programming and Data Analysis*
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -45,7 +45,7 @@ I am currently learning **Python, Object-Oriented Programming and Data Analysis*
 
 # 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktm8&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktm8&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
