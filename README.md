@@ -1,71 +1,63 @@
-# 👋 Hi, I'm Nick
+# 👋 Hi, I'm Nick Tem
 
-💻 Python developer in training  
-📚 Currently learning Object-Oriented Programming and data structures  
-🚀 Building projects and improving my programming skills  
+💻 Python Developer | Data Analysis  
+📚 Currently learning advanced Python and software development.
 
----
-
-## 🧠 Skills
-
-- Python
-- Object-Oriented Programming (OOP)
-- Git & GitHub
-- Basic Data Analysis
-- Problem Solving
+I enjoy building projects with **Python, OOP and data analysis** while continuously improving my programming skills.
 
 ---
 
-## 📂 Projects
+# 🚀 Tech Stack
 
-🔹 Sales Analysis Project  
-https://github.com/nicktm8/sales-analysis-project  
+<p align="left">
 
-🔹 OOP Online Store System  
-Python project demonstrating encapsulation, inheritance, polymorphism and abstract classes.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## 🌱 Currently Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
-- Advanced Python
-- Data Structures
-- Clean Code principles
-- Software design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📂 Featured Project
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=default)
+### 📊 Sales Analysis Project
+
+Python project for analyzing product sales using **Object-Oriented Programming and data structures**.
+
+Features:
+
+- Product sales tracking
+- Revenue calculations
+- Data analysis
+- OOP architecture
+
+🔗 Repository  
+https://github.com/nicktm8/sales-analysis-project
 
 ---
 
-## 💻 Most Used Languages
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktm8&layout=compact)
-
----
-
-## 🔗 Connect with me
-
-GitHub: https://github.com/nicktm8
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight)
 
 ---
 
-⭐ Always learning and improving.
+# 🔥 Top Languages
 
-<!--
-**nicktm8/nicktm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktm8&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 Contact
+
+GitHub:  
+https://github.com/nicktm8
+
+---
+
+⭐ Thanks for visiting my profile!
