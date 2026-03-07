@@ -61,3 +61,7 @@ https://github.com/nicktm8
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 🐍 Contributions
+
+![Snake animation](https://github.com/nicktm8/nicktm8/blob/output/github-contribution-grid-snake.svg)
