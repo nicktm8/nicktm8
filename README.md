@@ -74,9 +74,9 @@ PyTorch               ███░░░░░░░░░░░░   20%
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7" height="165"/>
+  <img src="https://readme-stats-nick.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicktm8&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="165"/>
+  <img src="https://readme-stats-nick.vercel.app/api/top-langs/?username=nicktm8&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="165"/>
 </p>
 
 <p align="center">
