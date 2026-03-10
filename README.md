@@ -1,8 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a4e,100:0d2137&height=220&section=header&text=Nick%20Tem&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Python%20%7C%20Data%20Analysis%20%7C%20Future%20ML%20%26%20AI&descSize=20&descAlignY=75&descColor=36BCF7"/>
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Data+Analysis+Learner+%F0%9F%93%8A;Exploring+Machine+Learning+%F0%9F%A4%96;Future+AI+Engineer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
