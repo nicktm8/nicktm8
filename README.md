@@ -22,7 +22,7 @@ I'm a Python developer focused on **Data Analysis**, with a clear goal of moving
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### 🐍 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,8 +53,8 @@ I'm a Python developer focused on **Data Analysis**, with a clear goal of moving
 ## 📈 Learning Roadmap
 
 ```text
-Python & OOP          ████████░░░░░░░   55%
-Data Analysis         ██████░░░░░░░░░   40%
+Python & OOP          █████████░░░░░░   60%
+Data Analysis         ███████░░░░░░░░   45%
 SQL & Databases       ██████░░░░░░░░░   40%
 Data Visualisation    █████░░░░░░░░░░   35%
 Machine Learning      ████░░░░░░░░░░░   25%
