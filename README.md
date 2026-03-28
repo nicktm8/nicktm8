@@ -124,11 +124,6 @@ PyTorch               ████░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicktm8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicktm8&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="165"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nicktm8&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)](https://github.com/nicktm8)
 
 </div>
