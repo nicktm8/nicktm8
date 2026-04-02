@@ -1,3 +1,6 @@
+permissions:
+  contents: write
+
 name: Generate Snake
 
 on:
@@ -19,7 +22,7 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: github-pages
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
