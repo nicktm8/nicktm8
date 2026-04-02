@@ -133,8 +133,8 @@ PyTorch               ████░░░░░░░░░░░░░░░�
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://github.com/nicktm8/nicktm8/raw/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://nicktm8.github.io/nicktm8/github-contribution-grid-snake.svg)
 
 </div>
 
