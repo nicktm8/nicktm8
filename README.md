@@ -59,7 +59,7 @@ me.say_hi()
 ## 📈 Learning Roadmap
 
 ```
-Python & OOP          ████████████░░░░░░░░   60%  🐍
+Python & OOP          █████████████░░░░░░░   65%  🐍
 Data Analysis         █████████░░░░░░░░░░░   45%  📊
 SQL & Databases       ████████░░░░░░░░░░░░   40%  🗃️
 Data Visualisation    ███████░░░░░░░░░░░░░   35%  📈
