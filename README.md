@@ -60,7 +60,7 @@ me.say_hi()
 
 ```
 Python & OOP          █████████████░░░░░░░   65%  🐍
-Data Analysis         █████████░░░░░░░░░░░   45%  📊
+Data Analysis         ██████████░░░░░░░░░░   50%  📊
 SQL & Databases       ████████░░░░░░░░░░░░   40%  🗃️
 Data Visualisation    ███████░░░░░░░░░░░░░   35%  📈
 Machine Learning      █████░░░░░░░░░░░░░░░   25%  🤖
