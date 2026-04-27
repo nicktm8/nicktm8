@@ -178,6 +178,8 @@ PyTorch               ████░░░░░░░░░░░░░░░�
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nicktm8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NickTm_)
+
 
 </div>
 
