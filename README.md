@@ -91,7 +91,53 @@ PyTorch               ████░░░░░░░░░░░░░░░�
 <tr>
 <td width="50%">
 
+### 🎬 Movies OMDb Enrichment
+
+> Modular ETL pipeline that enriches a CSV movie dataset with live IMDb data via the OMDb API and exports the result to XML.
+
+**Highlights:**
+- 🔗 Live API integration with error handling
+- 🧱 Strict ETL architecture across dedicated modules
+- 📄 XML export with structured schema
+- 🏆 Top 10 highest-rated films by IMDb score
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movies-omdb-enrichment)
+
+</td>
+<td width="50%">
+
+### 🎥 Movies ETL Pipeline
+
+> End-to-end ETL pipeline that processes a raw movie dataset, applies data transformations, and exports the enriched result to Excel.
+
+**Highlights:**
+- 📥 CSV ingestion and column normalization
+- 🔄 Data transformation and cleaning with pandas
+- 📊 Excel export with formatted output
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movies-etl-pipeline)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 Movie Watchlist CLI
+
+> Command-line app for managing a personal movie watchlist with persistent JSON storage.
+
+**Highlights:**
+- ➕ Add, remove, and list movies
+- 💾 Persistent storage via JSON
+- 🖥️ Clean CLI interface
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movie-watchlist-cli)
+
+</td>
+<td width="50%">
+
 ### 📊 Sales Analysis Project
+
 > Python project analysing product sales using **data structures**, **OOP**, and **data analysis** techniques.
 
 **Highlights:**
@@ -100,19 +146,6 @@ PyTorch               ████░░░░░░░░░░░░░░░�
 - 📈 Data analysis & summary insights
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/sales-analysis-project)
-
-</td>
-<td width="50%">
-
-### 🏪 OOP Online Store System
-> Modular Python OOP sales system demonstrating encapsulation, inheritance, polymorphism, and abstract classes.
-
-**Highlights:**
-- 🧱 Clean OOP architecture
-- 🔄 Inheritance & polymorphism
-- 🏗️ Abstract class design
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/oop-online-store-system)
 
 </td>
 </tr>
