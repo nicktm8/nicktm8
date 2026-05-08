@@ -63,7 +63,7 @@ Python & OOP          ██████████████░░░░░�
 Data Analysis         ███████████░░░░░░░░░   55%  📊
 SQL & Databases       ██████████░░░░░░░░░░   50%  🗃️
 Data Visualisation    ████████░░░░░░░░░░░░   40%  📈
-Machine Learning      █████░░░░░░░░░░░░░░░   25%  🤖
+Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    █████░░░░░░░░░░░░░░░   25%  🔥
 PyTorch               ████░░░░░░░░░░░░░░░░   20%  ⚡
 ```
