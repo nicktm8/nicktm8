@@ -65,7 +65,7 @@ SQL & Databases       ██████████░░░░░░░░░�
 Data Visualisation    ████████░░░░░░░░░░░░   40%  📈
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    █████░░░░░░░░░░░░░░░   25%  🔥
-PyTorch               ████░░░░░░░░░░░░░░░░   20%  ⚡
+PyTorch               █████░░░░░░░░░░░░░░░   25%  ⚡
 ```
 
 > 🌱 *Actively learning and improving every day — Data Analysis now, ML & AI next*
