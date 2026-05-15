@@ -30,9 +30,10 @@ me.say_hi()
 ## 🛠️ Tech Stack
 
 ### 🐍 Languages & Core
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-4B0082?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 📊 Data Analysis & Visualisation
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -62,8 +63,9 @@ me.say_hi()
 ```
 Python & OOP          ██████████████░░░░░░   70%  🐍
 Data Analysis         ███████████░░░░░░░░░   55%  📊
-SQL & Databases       ███████████░░░░░░░░░   55%  🗃️
-Data Visualisation    ████████░░░░░░░░░░░░   40%  📈
+SQL & Databases       ███████████░░░░░░░░░   55%  🛢️
+R Language            ███░░░░░░░░░░░░░░░░░   15%  🧮
+Data Visualisation    ████████░░░░░░░░░░░░   40%  🎨
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    █████░░░░░░░░░░░░░░░   25%  🔥
 PyTorch               █████░░░░░░░░░░░░░░░   25%  ⚡
