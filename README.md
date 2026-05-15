@@ -50,11 +50,13 @@ me.say_hi()
 
 ### 🗃️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🛢️ Databases *(Learning)*
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -127,11 +129,11 @@ PyTorch               █████░░░░░░░░░░░░░░�
 
 ### 🎬 Movie Watchlist CLI
 
-> Command-line app for managing a personal movie watchlist with persistent JSON storage.
+> Command-line app for managing a personal movie watchlist with persistent pickle storage.
 
 **Highlights:**
 - ➕ Add, remove, and list movies
-- 💾 Persistent storage via JSON
+- 💾 Persistent storage via pickle
 - 🖥️ Clean CLI interface
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movie-watchlist-cli)
@@ -181,8 +183,7 @@ PyTorch               █████░░░░░░░░░░░░░░�
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nicktm8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NickTm_)
-
+[![X](https://img.shields.io/badge/@NickTm_-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NickTm_)
 
 </div>
 
