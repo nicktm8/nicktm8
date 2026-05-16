@@ -66,7 +66,7 @@ me.say_hi()
 Python & OOP          ██████████████░░░░░░   70%  🐍
 Data Analysis         ███████████░░░░░░░░░   55%  📊
 SQL & Databases       ███████████░░░░░░░░░   55%  🛢️
-R Language            ███░░░░░░░░░░░░░░░░░   15%  🧮
+R Language            ████░░░░░░░░░░░░░░░░   20%  🧮
 Data Visualisation    ████████░░░░░░░░░░░░   40%  🎨
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    █████░░░░░░░░░░░░░░░   25%  🔥
