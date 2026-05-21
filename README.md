@@ -63,7 +63,7 @@ me.say_hi()
 ## 📈 Learning Roadmap
 
 ```
-Python                ██████████████░░░░░░   70%  🐍
+Python                ███████████████░░░░░   75%  🐍
 Data Analysis         ███████████░░░░░░░░░   55%  📊
 SQL & Databases       █████████████░░░░░░░   65%  🛢️
 R Language            ████░░░░░░░░░░░░░░░░   20%  🧮
