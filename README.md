@@ -65,7 +65,7 @@ me.say_hi()
 ```
 Python                ███████████████░░░░░   75%  🐍
 Data Analysis         ████████████░░░░░░░░   60%  📊
-SQL & Databases       ██████████████░░░░░░   70%  🛢️
+SQL & Databases       ███████████████░░░░░   75%  🛢️
 R Language            ████░░░░░░░░░░░░░░░░   20%  🧮
 Data Visualisation    ████████░░░░░░░░░░░░   40%  🎨
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
