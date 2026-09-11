@@ -163,9 +163,24 @@ PyTorch               █████░░░░░░░░░░░░░░�
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nicktm8&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)](https://github.com/nicktm8)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=nicktm8&theme=tokyonight&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=36BCF7"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=nicktm8&theme=default&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=6B7280"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=nicktm8&theme=default&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=6B7280"
+    alt="GitHub Streak"
+  />
+</picture>
 
 </div>
+
+
 
 <!-- 📊 GitHub Stats - uncomment when profile is more active
 ## 📊 GitHub Stats
