@@ -186,6 +186,27 @@ PyTorch               █████░░░░░░░░░░░░░░�
 ## 🐍 Contribution Snake
 
 <div align="center">
+
+<!-- uncomment when you whant to change to pacman (remove arrows) 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nicktm8/github-pacman/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nicktm8/github-pacman/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/nicktm8/github-pacman/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+-->
   
 <img src="https://nicktm8.github.io/nicktm8/github-contribution-grid-snake.svg" alt="Snake contribution graph">
 
