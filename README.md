@@ -97,6 +97,21 @@ PyTorch               █████░░░░░░░░░░░░░░�
 <tr>
 <td width="50%">
 
+### 🎬 Movies SQL Analytics
+
+> SQL analytics project that explores financial and production trends across 543 films using a normalized SQLite database, pandas, and data visualizations.
+
+**Highlights:**
+- 🗄️ Normalized 9-table SQLite schema with junction tables
+- 📊 Genre profitability, budget-revenue correlation (Pearson r=0.75)
+- 🌍 Top 5 countries by average revenue
+- 📈 Scatter plot and bar chart visualizations
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movies-sql-analytics)
+
+</td>
+<td width="50%">
+
 ### 🎬 Movies OMDb Enrichment
 
 > Modular ETL pipeline that enriches a CSV movie dataset with live IMDb data via the OMDb API and exports the result to XML.
@@ -110,6 +125,7 @@ PyTorch               █████░░░░░░░░░░░░░░�
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movies-omdb-enrichment)
 
 </td>
+<tr>
 <td width="50%">
 
 ### 🎥 Movies ETL Pipeline
@@ -124,8 +140,7 @@ PyTorch               █████░░░░░░░░░░░░░░�
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movies-etl-pipeline)
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 🎬 Movie Watchlist CLI
@@ -138,11 +153,11 @@ PyTorch               █████░░░░░░░░░░░░░░�
 - 🖥️ Clean CLI interface
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/movie-watchlist-cli)
-
+</tr>
 </td>
 <td width="50%">
 
-### 📊 Sales Analysis Project
+<!--### 📊 Sales Analysis Project
 
 > Python project analysing product sales using **data structures**, **OOP**, and **data analysis** techniques.
 
@@ -152,7 +167,7 @@ PyTorch               █████░░░░░░░░░░░░░░�
 - 📈 Data analysis & summary insights
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicktm8/sales-analysis-project)
-
+-->
 </td>
 </tr>
 </table>
