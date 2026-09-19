@@ -72,7 +72,7 @@ SQL & Databases       █████████████████░░�
 R Language            ██████░░░░░░░░░░░░░░   30%  🧮
 Data Visualisation    █████████████░░░░░░░   65%  🎨
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
-TensorFlow / Keras    █████░░░░░░░░░░░░░░░   25%  🔥
+TensorFlow / Keras    ██████░░░░░░░░░░░░░░   30%  🔥
 PyTorch               █████░░░░░░░░░░░░░░░   25%  ⚡
 ```
 
