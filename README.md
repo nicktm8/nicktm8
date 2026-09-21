@@ -73,7 +73,7 @@ R Language            ██████░░░░░░░░░░░░░�
 Data Visualisation    █████████████░░░░░░░   65%  🎨
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    ██████░░░░░░░░░░░░░░   30%  🔥
-PyTorch               █████░░░░░░░░░░░░░░░   25%  ⚡
+PyTorch               ██████░░░░░░░░░░░░░░   30%  ⚡
 ```
 
 > 🌱 *Actively learning and improving every day — Data Analysis now, ML & AI next*
