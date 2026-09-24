@@ -41,6 +41,7 @@ me.say_hi()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4A6E?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-36BCF7?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-E6526F?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
