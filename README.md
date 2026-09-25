@@ -33,7 +33,7 @@ me.say_hi()
 
 ### 🐍 Languages & Core
 
-<img align="right" alt="Tech_Stack" src="./techstack.png" width="60%" margin-left="15px"/>
+<img align="right" alt="Tech_Stack" src="./techstack.png" width="50%" margin-left="15px"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
