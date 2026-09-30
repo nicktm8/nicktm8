@@ -80,7 +80,7 @@ Python                █████████████████░░�
 Data Analysis         █████████████████░░░   85%  📊
 SQL & Databases       █████████████████░░░   85%  🛢️
 R Language            ██████░░░░░░░░░░░░░░   30%  🧮
-Data Visualisation    ███████████████░░░░░   75%  🎨
+Data Visualisation    ████████████████░░░░   80%  🎨
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    ██████░░░░░░░░░░░░░░   30%  🔥
 PyTorch               ██████░░░░░░░░░░░░░░   30%  ⚡
