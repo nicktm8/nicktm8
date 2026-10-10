@@ -14,7 +14,7 @@ class NickTem:
         self.role        = "Python Developer 🐍"
         self.focus       = ["Data Analysis ", "Machine Learning", "AI"]
         self.stack       = ["Python", "SQL", "Pandas", "NumPy", "Matplotlib"]
-        self.learning    = ["TensorFlow", "Scikit-Learn", "PyTorch"]
+        self.learning    = ["Scikit-Learn", "TensorFlow", "PyTorch"]
         self.goal        = "Data Analyst → ML / AI Engineer 🎯"
         self.motto       = "Learn. Build. Repeat. 🔥"
 
@@ -28,7 +28,6 @@ me.say_hi()
 ---
 
 ## 🛠️ Tech Stack
-
 
 
 ### 🐍 Languages & Core
@@ -79,24 +78,46 @@ me.say_hi()
 
 ## 📈 Learning Roadmap
 
-```
-Python                ██████████████████░░   90%  🐍
-SQL & Databases       █████████████████░░░   85%  🛢️
-Data Analysis         █████████████████░░░   85%  📊
-Data Visualisation    █████████████████░░░   85%  🎨
+<table>
+<tr>
+<td width="50%">
+  
+### 📊 Data
 
-Cloud (AWS)           ███░░░░░░░░░░░░░░░░░   15%  ☁️
-Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
-TensorFlow / Keras    ██████░░░░░░░░░░░░░░   30%  🔥
-PyTorch               ██████░░░░░░░░░░░░░░   30%  ⚡
-R Language            ██████░░░░░░░░░░░░░░   30%  🧮
 ```
+Python                █████████████████░░░   85%  🐍
+SQL & Databases       ██████████░░░░░░░░░░   50%  🛢️
+Data Analysis         ████████████████░░░░   80%  📊
+Data Visualisation    ████████████████░░░░   80%  🎨
+Cloud (AWS)           ███░░░░░░░░░░░░░░░░░   15%  ☁️
+R Language            ███░░░░░░░░░░░░░░░░░   15%  🧮
+```
+</td>
+<td width="50%">
+
+### 🤖 ML & AI
+
+```
+Machine Learning      ███░░░░░░░░░░░░░░░░░   15%  🤖
+Scikit-Learn          ███░░░░░░░░░░░░░░░░░   15%  🧪
+TensorFlow / Keras    ███░░░░░░░░░░░░░░░░░   15%  🔥
+PyTorch               ███░░░░░░░░░░░░░░░░░   15%  ⚡
+
+
+```
+</td>
+</tr>
+</table>
+
+
+
+
 
 > 🌱 *Actively learning and improving every day — from Data Analysis through Cloud to ML & AI*
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026-2027 Goals
 
 ### 📚 Learning
 - [x] 🐍 Master Python fundamentals & OOP
@@ -107,12 +128,12 @@ R Language            ██████░░░░░░░░░░░░░�
 ### 🛠️ Building
 - [x] 📊 Build first data analysis project
 - [ ] 🗃️ Build 2 SQL database projects
-- [ ] 📈 Create a full end-to-end data pipeline
+- [ ] 📈 Create a full end-to-end data pipeline (live data)
 - [ ] 🚀 Deploy a data pipeline to the cloud
 - [ ] 🤖 Train first ML model
  
 ### 🎯 Career
-- [ ] 💼 Land first Data Analyst role
+- [ ] 💼 Land first Data Analyst role *(by mid-2027)*
 
 ---
 
