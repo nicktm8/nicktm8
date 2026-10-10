@@ -78,36 +78,25 @@ me.say_hi()
 
 ## 📈 Learning Roadmap
 
-<table>
-<tr>
-<td width="50%">
-  
 ### 📊 Data
 
-```
-Python                █████████████████░░░   85%  🐍
-SQL & Databases       ██████████░░░░░░░░░░   50%  🛢️
-Data Analysis         ████████████████░░░░   80%  📊
-Data Visualisation    ████████████████░░░░   80%  🎨
-Cloud (AWS)           ███░░░░░░░░░░░░░░░░░   15%  ☁️
-R Language            ███░░░░░░░░░░░░░░░░░   15%  🧮
-```
-</td>
-<td width="50%">
+| Skill | Level | Applied In |
+|---|---|---|
+| 🐍 Python | `███████████████░░░░░` 75% | [Watchlist CLI](https://github.com/nicktm8/movie-watchlist-cli), [ETL Pipeline](https://github.com/nicktm8/movies-etl-pipeline), [OMDb Enrichment](https://github.com/nicktm8/movies-omdb-enrichment) |
+| 🛢️ SQL & Databases | `███████████░░░░░░░░░` 55% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
+| 📊 Data Analysis | `█████████████░░░░░░░` 65% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics), [ETL Pipeline](https://github.com/nicktm8/movies-etl-pipeline) |
+| 🎨 Data Visualisation | `██████████░░░░░░░░░░` 50% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
+| ☁️ Cloud (AWS) | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
+| 🧮 R Language | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
 
 ### 🤖 ML & AI
 
-```
-Machine Learning      ███░░░░░░░░░░░░░░░░░   15%  🤖
-Scikit-Learn          ███░░░░░░░░░░░░░░░░░   15%  🧪
-TensorFlow / Keras    ███░░░░░░░░░░░░░░░░░   15%  🔥
-PyTorch               ███░░░░░░░░░░░░░░░░░   15%  ⚡
-
-
-```
-</td>
-</tr>
-</table>
+| Skill | Level | Applied In |
+|---|---|---|
+| 🤖 Machine Learning | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
+| 🧪 Scikit-Learn | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
+| 🔥 TensorFlow / Keras | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
+| ⚡ PyTorch | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
 
 
 <details>
@@ -122,7 +111,6 @@ PyTorch               ███░░░░░░░░░░░░░░░░�
 | 80-100% | Production-ready and able to teach others |
 
 </details>
-
 
 > 🌱 *Actively learning and improving every day — from Data Analysis through Cloud to ML & AI*
 
