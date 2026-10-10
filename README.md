@@ -110,7 +110,18 @@ PyTorch               ███░░░░░░░░░░░░░░░░�
 </table>
 
 
+<details>
+<summary>📏 How I rate my skills</summary>
 
+| Level | Meaning |
+|---|---|
+| 0-20% | Familiar with the concepts, following tutorials |
+| 20-40% | Course completed, exercises done with reference material |
+| 40-60% | Applied in one portfolio project |
+| 60-80% | Applied in multiple projects, works without constant documentation lookup |
+| 80-100% | Production-ready and able to teach others |
+
+</details>
 
 
 > 🌱 *Actively learning and improving every day — from Data Analysis through Cloud to ML & AI*
