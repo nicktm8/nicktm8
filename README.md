@@ -100,7 +100,7 @@ me.say_hi()
 
 
 <details>
-<summary>📏 How I rate my skills</summary>
+<summary><b>📏 How I rate my skills ?</b></summary>
 
 | Level | Meaning |
 |---|---|
