@@ -100,15 +100,17 @@ me.say_hi()
 
 
 <details>
-<summary><b>📏 How I rate my skills ?</b></summary>
+<summary><b>📏 How I rate my skills</b></summary>
 
 | Level | Stage | Meaning |
 |---|---|---|
 | 0-30% | Awareness | Knows the terms and core concepts, follows tutorials |
 | 30-60% | Beginner | Completes the course or guided exercises with reference material |
-| 60-80% | Intermediate | Understands how and why things work, solves standard problems independently |
+| 60-80% | Intermediate | Understands why and how things work, solves standard problems independently |
 | 80-90% | Advanced | Solves non-standard problems, compares alternatives, debugs without help |
 | 90-100% | Expert | Extensive experience, designs solutions for new problems, teaches others |
+
+*Beginner is measured by course progress (60% = course completed). Intermediate and above are measured by applied projects.*
 
 *Levels are a personal self-assessment, loosely inspired by Bloom's Taxonomy and the Dreyfus model of skill acquisition.*
 
