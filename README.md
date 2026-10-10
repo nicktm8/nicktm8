@@ -81,16 +81,18 @@ me.say_hi()
 
 ```
 Python                ██████████████████░░   90%  🐍
-Data Analysis         █████████████████░░░   85%  📊
 SQL & Databases       █████████████████░░░   85%  🛢️
-R Language            ██████░░░░░░░░░░░░░░   30%  🧮
+Data Analysis         █████████████████░░░   85%  📊
 Data Visualisation    █████████████████░░░   85%  🎨
+R Language            ██████░░░░░░░░░░░░░░   30%  🧮
+
+Cloud (AWS)           ███░░░░░░░░░░░░░░░░░   15%  ☁️
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    ██████░░░░░░░░░░░░░░   30%  🔥
 PyTorch               ██████░░░░░░░░░░░░░░   30%  ⚡
 ```
 
-> 🌱 *Actively learning and improving every day — Data Analysis now, ML & AI next*
+> 🌱 *Actively learning and improving every day — from Data Analysis through Cloud to ML & AI*
 
 ---
 
@@ -103,7 +105,7 @@ PyTorch               ██████░░░░░░░░░░░░░�
 - [ ] 🗃️ Build 2 SQL database projects
 - [ ] 🤖 Train first ML model with Scikit-Learn
 - [ ] 📈 Create a full end-to-end data pipeline
-- [ ] 🚀 Land first Data Analyst role
+- [ ] 💼 Land first Data Analyst role
 
 ---
 
