@@ -38,7 +38,7 @@ me.say_hi()
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📊 Data Analysis & Visualisation
+### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -85,7 +85,7 @@ me.say_hi()
 | 🐍 Python | `███████████████░░░░░` 75% | [Watchlist CLI](https://github.com/nicktm8/movie-watchlist-cli), [ETL Pipeline](https://github.com/nicktm8/movies-etl-pipeline), [OMDb Enrichment](https://github.com/nicktm8/movies-omdb-enrichment) |
 | 🛢️ SQL & Databases | `███████████░░░░░░░░░` 55% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
 | 📊 Data Analysis | `█████████████░░░░░░░` 65% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics), [ETL Pipeline](https://github.com/nicktm8/movies-etl-pipeline) |
-| 🎨 Data Visualisation | `██████████░░░░░░░░░░` 50% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
+| 🎨 Data Visualization | `██████████░░░░░░░░░░` 50% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
 | ☁️ Cloud (AWS) | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
 | 🧮 R Language | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
 
