@@ -138,7 +138,7 @@ me.say_hi()
 - [ ] 🤖 Train first ML model
  
 ### 🎯 Career
-- [ ] 💼 Land first Data Analyst role *(by mid-2027)*
+- [ ] 💼 Land first Data Analyst role  <!-- *(by mid-2027)* -->
 
 ---
 
