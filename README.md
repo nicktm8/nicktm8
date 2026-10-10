@@ -102,15 +102,19 @@ me.say_hi()
 <details>
 <summary><b>📏 How I rate my skills ?</b></summary>
 
-| Level | Meaning |
-|---|---|
-| 0-20% | Familiar with the concepts, following tutorials |
-| 20-40% | Course completed, exercises done with reference material |
-| 40-60% | Applied in one portfolio project |
-| 60-80% | Applied in multiple projects, works without constant documentation lookup |
-| 80-100% | Production-ready and able to teach others |
+| Level | Stage | Meaning |
+|---|---|---|
+| 0-30% | Awareness | Knows the terms and core concepts, follows tutorials |
+| 30-60% | Beginner | Completes the course or guided exercises with reference material |
+| 60-80% | Intermediate | Understands how and why things work, solves standard problems independently |
+| 80-90% | Advanced | Solves non-standard problems, compares alternatives, debugs without help |
+| 90-100% | Expert | Extensive experience, designs solutions for new problems, teaches others |
+
+*Levels are a personal self-assessment, loosely inspired by Bloom's Taxonomy and the Dreyfus model of skill acquisition.*
 
 </details>
+
+
 
 > 🌱 *Actively learning and improving every day — from Data Analysis through Cloud to ML & AI*
 
