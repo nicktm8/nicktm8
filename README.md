@@ -84,27 +84,34 @@ Python                ██████████████████░�
 SQL & Databases       █████████████████░░░   85%  🛢️
 Data Analysis         █████████████████░░░   85%  📊
 Data Visualisation    █████████████████░░░   85%  🎨
-R Language            ██████░░░░░░░░░░░░░░   30%  🧮
 
 Cloud (AWS)           ███░░░░░░░░░░░░░░░░░   15%  ☁️
 Machine Learning      ██████░░░░░░░░░░░░░░   30%  🤖
 TensorFlow / Keras    ██████░░░░░░░░░░░░░░   30%  🔥
 PyTorch               ██████░░░░░░░░░░░░░░   30%  ⚡
+R Language            ██████░░░░░░░░░░░░░░   30%  🧮
 ```
 
 > 🌱 *Actively learning and improving every day — from Data Analysis through Cloud to ML & AI*
 
 ---
 
-
 ## 🎯 2026 Goals
 
+### 📚 Learning
 - [x] 🐍 Master Python fundamentals & OOP
+- [ ] 📊 Complete data analysis with Pandas & NumPy
+- [ ] ☁️ Learn AWS fundamentals (S3, Lambda)
+- [ ] 🤖 Complete ML fundamentals with Scikit-Learn
+
+### 🛠️ Building
 - [x] 📊 Build first data analysis project
-- [ ] 📚 Complete data analysis with Pandas & NumPy
 - [ ] 🗃️ Build 2 SQL database projects
-- [ ] 🤖 Train first ML model with Scikit-Learn
 - [ ] 📈 Create a full end-to-end data pipeline
+- [ ] 🚀 Deploy a data pipeline to the cloud
+- [ ] 🤖 Train first ML model
+ 
+### 🎯 Career
 - [ ] 💼 Land first Data Analyst role
 
 ---
