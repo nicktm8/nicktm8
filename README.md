@@ -85,7 +85,7 @@ me.say_hi()
 | 🐍 Python | `███████████████░░░░░` 75% | [Watchlist CLI](https://github.com/nicktm8/movie-watchlist-cli), [ETL Pipeline](https://github.com/nicktm8/movies-etl-pipeline), [OMDb Enrichment](https://github.com/nicktm8/movies-omdb-enrichment) |
 | 🛢️ SQL & Databases | `████████████░░░░░░░░` 60% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
 | 📊 Data Analysis | `█████████████░░░░░░░` 65% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics), [ETL Pipeline](https://github.com/nicktm8/movies-etl-pipeline) |
-| 🎨 Data Visualization | `███████████░░░░░░░░░` 55% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
+| 🎨 Data Visualization | `████████████░░░░░░░░` 60% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
 | ☁️ Cloud (AWS) | `█████░░░░░░░░░░░░░░░` 25% | *In progress* |
 | 🧮 R Language | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
 
