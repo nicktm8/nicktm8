@@ -87,7 +87,7 @@ me.say_hi()
 | 📊 Data Analysis | `█████████████░░░░░░░` 65% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics), [ETL Pipeline](https://github.com/nicktm8/movies-etl-pipeline) |
 | 🎨 Data Visualization | `████████████░░░░░░░░` 60% | [Movies SQL Analytics](https://github.com/nicktm8/movies-sql-analytics) |
 | ☁️ Cloud (AWS) | `████████████░░░░░░░░` 60% | *In progress* |
-| 🧮 R Language | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
+| 🧮 R Language | `████░░░░░░░░░░░░░░░░` 20% | *In progress* |
 
 ### 🤖 ML & AI
 
