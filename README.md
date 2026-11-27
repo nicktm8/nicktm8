@@ -93,7 +93,7 @@ me.say_hi()
 
 | Skill | Level | Applied In |
 |---|---|---|
-| 🤖 Machine Learning | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
+| 🤖 Machine Learning | `████░░░░░░░░░░░░░░░░` 20% | *In progress* |
 | 🧪 Scikit-Learn | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
 | 🔥 TensorFlow / Keras | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
 | ⚡ PyTorch | `███░░░░░░░░░░░░░░░░░` 15% | *In progress* |
